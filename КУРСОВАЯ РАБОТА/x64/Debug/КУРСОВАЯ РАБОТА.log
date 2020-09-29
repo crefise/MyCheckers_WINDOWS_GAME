@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\main.cpp(11,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Scene.cpp
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "freeglut.lib"

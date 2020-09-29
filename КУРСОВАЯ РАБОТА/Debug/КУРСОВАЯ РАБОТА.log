@@ -1,0 +1,30 @@
+﻿  Scene.cpp
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(28,29): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(30,29): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(50,58): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(54,58): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(56,58): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(67,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(68,12): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(69,12): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(83,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(86,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(88,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(91,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(99,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(103,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(104,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(111,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(112,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(131,33): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(132,33): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(133,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(134,33): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(138,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(140,30): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(141,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(142,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(143,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(1126,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\КУРСОВАЯ РАБОТА\Scene.cpp(1127,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  КУРСОВАЯ РАБОТА.vcxproj -> C:\Users\crefi\source\repos\КУРСОВАЯ РАБОТА\Debug\КУРСОВАЯ РАБОТА.exe
